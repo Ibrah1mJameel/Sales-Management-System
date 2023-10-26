@@ -1,0 +1,171 @@
+D:\C# Projects\AccountingSystem\obj\Debug\AccountingSystem.csprojResolveAssemblyReference.cache
+D:\C# Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.LogInForm.resources
+D:\C# Projects\AccountingSystem\obj\Debug\AccountingSystem.Properties.Resources.resources
+D:\C# Projects\AccountingSystem\obj\Debug\AccountingSystem.csproj.GenerateResource.Cache
+D:\C# Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.MainForm.resources
+D:\C# Projects\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+D:\C# Projects\AccountingSystem\bin\Debug\AccountingSystem.exe
+D:\C# Projects\AccountingSystem\bin\Debug\AccountingSystem.pdb
+D:\C# Projects\AccountingSystem\obj\Debug\AccountingSystem.exe
+D:\C# Projects\AccountingSystem\obj\Debug\AccountingSystem.pdb
+D:\C# Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_add_product.resources
+D:\C# Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Products.resources
+D:\C# Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Preview.resources
+G:\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+G:\AccountingSystem\bin\Debug\AccountingSystem.exe
+G:\AccountingSystem\bin\Debug\AccountingSystem.pdb
+G:\AccountingSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\AccountingSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\AccountingSystem\bin\Debug\CrystalDecisions.Shared.dll
+G:\AccountingSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\AccountingSystem\bin\Debug\FlashControlV71.dll
+G:\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\AccountingSystem\bin\Debug\ShockwaveFlashObjects.dll
+G:\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\AccountingSystem\bin\Debug\stdole.dll
+G:\AccountingSystem\obj\Debug\AccountingSystem.csprojResolveAssemblyReference.cache
+G:\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_add_product.resources
+G:\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Categories.resources
+G:\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Preview.resources
+G:\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Products.resources
+G:\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.LogInForm.resources
+G:\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.MainForm.resources
+G:\AccountingSystem\obj\Debug\AccountingSystem.Properties.Resources.resources
+G:\AccountingSystem\obj\Debug\AccountingSystem.Report.frm_RPT_Product.resources
+G:\AccountingSystem\obj\Debug\AccountingSystem.csproj.GenerateResource.Cache
+G:\AccountingSystem\obj\Debug\AccountingSystem.exe
+G:\AccountingSystem\obj\Debug\AccountingSystem.pdb
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\AccountingSystem.exe
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\AccountingSystem.pdb
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\FlashControlV71.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\bin\Debug\stdole.dll
+C:\Users\SpaceTech\Desktop\AccountingSystem\obj\Debug\AccountingSystem.csprojResolveAssemblyReference.cache
+C:\Users\SpaceTech\Desktop\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_add_product.resources
+C:\Users\SpaceTech\Desktop\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Categories.resources
+C:\Users\SpaceTech\Desktop\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Preview.resources
+C:\Users\SpaceTech\Desktop\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Products.resources
+C:\Users\SpaceTech\Desktop\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.LogInForm.resources
+C:\Users\SpaceTech\Desktop\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.MainForm.resources
+C:\Users\SpaceTech\Desktop\AccountingSystem\obj\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\SpaceTech\Desktop\AccountingSystem\obj\Debug\AccountingSystem.Report.frm_RPT_Product.resources
+C:\Users\SpaceTech\Desktop\AccountingSystem\obj\Debug\AccountingSystem.csproj.GenerateResource.Cache
+C:\Users\SpaceTech\Desktop\AccountingSystem\obj\Debug\AccountingSystem.exe
+C:\Users\SpaceTech\Desktop\AccountingSystem\obj\Debug\AccountingSystem.pdb
+D:\C# Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Categories.resources
+D:\C# Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Coustomers.resources
+D:\C# Projects\AccountingSystem\obj\Debug\AccountingSystem.Report.frm_RPT_Product.resources
+D:\C# Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Orders.resources
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.Shared.dll
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\C# Projects\AccountingSystem\bin\Debug\FlashControlV71.dll
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\C# Projects\AccountingSystem\bin\Debug\ShockwaveFlashObjects.dll
+D:\C# Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\C# Projects\AccountingSystem\bin\Debug\stdole.dll
+D:\C# Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Users.resources
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\AccountingSystem.exe
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\AccountingSystem.pdb
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\SpaceTech\Downloads\AccountingSystem\bin\Debug\stdole.dll
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.csprojAssemblyReference.cache
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_add_product.resources
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Categories.resources
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Coustomers.resources
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Orders.resources
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Preview.resources
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Products.resources
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Users.resources
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.LogInForm.resources
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.MainForm.resources
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.Report.frm_RPT_Product.resources
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.csproj.GenerateResource.cache
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.csproj.CoreCompileInputs.cache
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.csproj.CopyComplete
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.exe
+C:\Users\SpaceTech\Downloads\AccountingSystem\obj\Debug\AccountingSystem.pdb
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\AccountingSystem.exe
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\AccountingSystem.pdb
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\bin\Debug\stdole.dll
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\obj\Debug\AccountingSystem.csprojResolveAssemblyReference.cache
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_add_product.resources
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Categories.resources
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Coustomers.resources
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Orders.resources
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Preview.resources
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Products.resources
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.frm_Users.resources
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.LogInForm.resources
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\obj\Debug\AccountingSystem.ProjLayur.MainForm.resources
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\obj\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\obj\Debug\AccountingSystem.Report.frm_RPT_Product.resources
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\obj\Debug\AccountingSystem.csproj.GenerateResource.Cache
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\obj\Debug\AccountingSystem.exe
+C:\Users\SpaceTech\Documents\Visual Studio 2017\Projects\AccountingSystem\obj\Debug\AccountingSystem.pdb
